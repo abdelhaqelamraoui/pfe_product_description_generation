@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebook metadata (optional)
+*.nbconvert.ipynb
+
+# Python virtual environment and package caches
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+*.egg
+dist/
+build/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Jupyter Notebook output (optional, e.g. large output cells)
+*.out
+
+# MyPy
+.mypy_cache/
+
+# Pyre
+.pyre/
+
+# Pytype
+.pytype/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Logs
+*.log
+
+# macOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Data files (if sensitive or unnecessary for repo)
+*.tsv
+*.parquet
+*.h5
+*.db
+*.sqlite
+
+# Jupyter auto-save temp files
+~$*
+
+# Project-specific
+# *.pkl
+# *.joblib
+t5-product-description/checkpoint-2187
