@@ -71,4 +71,9 @@ desktop.ini
 # Project-specific
 # *.pkl
 # *.joblib
-t5-product-description/checkpoint-2187
+t5-product-description/*
+fine-tuned-bart/*
+bart-product-description/*
+data/archive/overstock_data_2.csv
+data/archive/Overstock_data.csv
+data/data.ipynb
